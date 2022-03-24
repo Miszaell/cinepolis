@@ -1,9 +1,9 @@
 <template>
-  <v-app style="font-family: 'montserrat'">
-    <v-app-bar app color="#000000" dark>
+  <v-app style="font-family: 'montserrat'; background: black">
+    <v-app-bar app color="#000000" dark class="pa-md-5">
       <div class="d-flex align-center">
         <v-img
-          alt="Vuetify Logo"
+          alt="Logo"
           class="shrink mr-2"
           contain
           src="../src/assets/log.png"
@@ -19,10 +19,17 @@
       <v-btn text> Más </v-btn>
     </v-app-bar>
 
-    <v-main class="pa-5">
+    <v-main
+      style="
+        padding-top: 6%;
+        padding-right: 3%;
+        padding-left: 3%;
+        background: black;
+      "
+    >
       <router-view />
     </v-main>
-    <v-footer color="#002069" dark>
+    <v-footer color="#002069" dark class="mt-lg-8">
       <v-col class="text-center" cols="4">
         <strong class="mb-5">Quienes somos</strong>
         <p class="body-2">Proveedores</p>
