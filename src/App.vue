@@ -1,55 +1,65 @@
 <template>
-  <v-app>
-    <v-app-bar
-      app
-      color="primary"
-      dark
-    >
+  <v-app style="font-family: 'montserrat'">
+    <v-app-bar app color="#000000" dark>
       <div class="d-flex align-center">
         <v-img
           alt="Vuetify Logo"
           class="shrink mr-2"
           contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
+          src="../src/assets/log.png"
           transition="scale-transition"
-          width="40"
-        />
-
-        <v-img
-          alt="Vuetify Name"
-          class="shrink mt-1 hidden-sm-and-down"
-          contain
-          min-width="100"
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-name-dark.png"
-          width="100"
+          width="180"
         />
       </div>
 
       <v-spacer></v-spacer>
-
-      <v-btn
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
-        target="_blank"
-        text
-      >
-        <span class="mr-2">Latest Release</span>
-        <v-icon>mdi-open-in-new</v-icon>
-      </v-btn>
+      <v-btn text> Promociones </v-btn>
+      <v-btn text> Próximos estrenos </v-btn>
+      <v-btn text to="/preve"> Preventas </v-btn>
+      <v-btn text> Más </v-btn>
     </v-app-bar>
 
-    <v-main>
-      <router-view/>
+    <v-main class="pa-5">
+      <router-view />
     </v-main>
+    <v-footer color="#002069" dark>
+      <v-col class="text-center" cols="4">
+        <strong class="mb-5">Quienes somos</strong>
+        <p class="body-2">Proveedores</p>
+        <p class="body-2">Trabaja en Cinépolis</p>
+        <p class="body-2">Próximas aperturas</p>
+        <p class="body-2">Ventas corporativo</p>
+      </v-col>
+      <v-col class="text-center" cols="4">
+        <strong class="mb-5">Legales</strong>
+        <p class="body-2">Términos y condiciones</p>
+        <p class="body-2">Aviso de privacidad</p>
+        <p class="body-2">Términos Cinecash</p>
+        <p class="body-2">Términos y condiciones Cineticket</p>
+        <p class="body-2">Código de conducta</p>
+      </v-col>
+      <v-col class="text-center" cols="4">
+        <strong class="mb-5">Contacto</strong>
+        <p class="body-2">Facturación electrónica</p>
+        <p class="body-2">Dejanos tus comantarios</p>
+        <p class="body-2">512 122 60 60</p>
+      </v-col>
+    </v-footer>
   </v-app>
 </template>
 
 <script>
+  export default {
+    name: "App",
 
-export default {
-  name: 'App',
-
-  data: () => ({
-    //
-  }),
-};
+    data: () => ({
+      //
+    }),
+  };
 </script>
+
+<style scoped>
+  .v-app {
+    font-family: "Montserrat";
+  }
+</style>
