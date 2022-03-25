@@ -58,7 +58,7 @@
                 </v-autocomplete>
               </v-col>
               <v-col>
-                <v-btn block color="primary rounded-md-3">
+                <v-btn to="/cartelera" block color="primary rounded-md-3">
                   Ver Cartelera
                 </v-btn>
               </v-col>
@@ -143,7 +143,6 @@
         </v-col>
       </v-row>
     </div>
-
      <div style="background: black">
       <p style="color: white; font-size: 30px; font-weight: lighter; margin-top:5%">
         Proximamente
