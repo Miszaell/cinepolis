@@ -1,7 +1,7 @@
 <template>
   <v-app style="font-family: 'montserrat'; background: black">
     <v-app-bar app color="#000000" dark class="pa-md-5">
-      <div class="d-flex align-center">
+      <div class="d-flex align-center" style="cursor:pointer;" @click="$router.push({path:'/'})">
         <v-img
           alt="Logo"
           class="shrink mr-2"
