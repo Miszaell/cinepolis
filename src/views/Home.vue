@@ -108,7 +108,7 @@
       <v-row class="d-flex align-center">
         <v-col
           ><v-img
-            src="../../src/assets/lorax.jpg"
+            src="../../src/assets/posterConjuro.png"
             class="mx-lg-auto rounded-lg"
             style="border-style: ridge; border-size: 1px; border-color: white"
             width="280"
@@ -116,7 +116,7 @@
         /></v-col>
         <v-col>
           <v-img
-            src="../../src/assets/dragon.jpg"
+            src="../../src/assets/posterGroods.jpg"
             class="mx-lg-auto rounded-lg"
             style="border-style: ridge; border-size: 1px; border-color: white"
             width="280"
@@ -125,7 +125,7 @@
         </v-col>
         <v-col>
           <v-img
-            src="../../src/assets/posterGrud.png"
+            src="../../src/assets/posterJumanji.png"
             width="280"
             class="mx-lg-auto rounded-lg"
             style="border-style: ridge; border-size: 1px; border-color: white"
@@ -134,7 +134,7 @@
         </v-col>
         <v-col>
           <v-img
-            src="../../src/assets/posterCastillo.jpeg"
+            src="../../src/assets/posterRaton.png"
             width="280"
             class="mx-lg-auto rounded-lg"
             style="border-style: ridge; border-size: 1px; border-color: white"
@@ -150,7 +150,7 @@
       <v-row class="d-flex align-center">
         <v-col
           ><v-img
-            src="../../src/assets/lorax.jpg"
+            src="../../src/assets/posterShuek.png"
             class="mx-lg-auto rounded-lg"
             style="border-style: ridge; border-size: 1px; border-color: white"
             width="280"
@@ -158,7 +158,7 @@
         /></v-col>
         <v-col>
           <v-img
-            src="../../src/assets/dragon.jpg"
+            src="../../src/assets/posterWars.png"
             class="mx-lg-auto rounded-lg"
             style="border-style: ridge; border-size: 1px; border-color: white"
             width="280"
@@ -167,7 +167,7 @@
         </v-col>
         <v-col>
           <v-img
-            src="../../src/assets/posterGrud.png"
+            src="../../src/assets/posterZombies.png"
             width="280"
             class="mx-lg-auto rounded-lg"
             style="border-style: ridge; border-size: 1px; border-color: white"
@@ -176,7 +176,7 @@
         </v-col>
         <v-col>
           <v-img
-            src="../../src/assets/posterCastillo.jpeg"
+            src="../../src/assets/posterAnabelle.png"
             width="280"
             class="mx-lg-auto rounded-lg"
             style="border-style: ridge; border-size: 1px; border-color: white"

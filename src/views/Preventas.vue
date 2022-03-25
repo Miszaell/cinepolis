@@ -117,7 +117,7 @@
                 hide-selected
                 item-text="name"
                 item-value="symbol"
-                label="Ubicación"
+                label="Cine"
                 class="my-lg-3"
                 solo
               >

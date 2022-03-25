@@ -40,7 +40,7 @@
           <v-row class="d-flex align-center">
             <v-col
               ><v-img
-                src="../../src/assets/lorax.jpg"
+                src="../../src/assets/poster100.png"
                 class="mx-lg-auto rounded-lg"
                 style="
                   border-style: ridge;
@@ -52,7 +52,7 @@
             /></v-col>
             <v-col>
               <v-img
-                src="../../src/assets/dragon.jpg"
+                src="../../src/assets/posterAlvin.png"
                 class="mx-lg-auto rounded-lg"
                 style="
                   border-style: ridge;
@@ -65,7 +65,7 @@
             </v-col>
             <v-col>
               <v-img
-                src="../../src/assets/posterGrud.png"
+                src="../../src/assets/posterAnna.png"
                 width="180"
                 class="mx-lg-auto rounded-lg"
                 style="
@@ -78,7 +78,7 @@
             </v-col>
             <v-col>
               <v-img
-                src="../../src/assets/posterCastillo.jpeg"
+                src="../../src/assets/posterBee.png"
                 width="180"
                 class="mx-lg-auto rounded-lg"
                 style="
@@ -93,7 +93,7 @@
           <v-row class="d-flex align-center">
             <v-col
               ><v-img
-                src="../../src/assets/lorax.jpg"
+                src="../../src/assets/posterChucky.png"
                 class="mx-lg-auto rounded-lg"
                 style="
                   border-style: ridge;
@@ -105,7 +105,7 @@
             /></v-col>
             <v-col>
               <v-img
-                src="../../src/assets/dragon.jpg"
+                src="../../src/assets/posterDios.png"
                 class="mx-lg-auto rounded-lg"
                 style="
                   border-style: ridge;
@@ -118,7 +118,7 @@
             </v-col>
             <v-col>
               <v-img
-                src="../../src/assets/posterGrud.png"
+                src="../../src/assets/posterDiver.png"
                 width="180"
                 class="mx-lg-auto rounded-lg"
                 style="
@@ -131,7 +131,7 @@
             </v-col>
             <v-col>
               <v-img
-                src="../../src/assets/posterCastillo.jpeg"
+                src="../../src/assets/posterEsponja.png"
                 width="180"
                 class="mx-lg-auto rounded-lg"
                 style="
@@ -146,7 +146,7 @@
           <v-row class="d-flex align-center">
             <v-col
               ><v-img
-                src="../../src/assets/lorax.jpg"
+                src="../../src/assets/posterEclipse.png"
                 class="mx-lg-auto rounded-lg"
                 style="
                   border-style: ridge;
@@ -158,7 +158,7 @@
             /></v-col>
             <v-col>
               <v-img
-                src="../../src/assets/dragon.jpg"
+                src="../../src/assets/posterGuerra.png"
                 class="mx-lg-auto rounded-lg"
                 style="
                   border-style: ridge;
@@ -171,7 +171,7 @@
             </v-col>
             <v-col>
               <v-img
-                src="../../src/assets/posterGrud.png"
+                src="../../src/assets/posterHerbie.png"
                 width="180"
                 class="mx-lg-auto rounded-lg"
                 style="
@@ -184,7 +184,7 @@
             </v-col>
             <v-col>
               <v-img
-                src="../../src/assets/posterCastillo.jpeg"
+                src="../../src/assets/posterKong.png"
                 width="180"
                 class="mx-lg-auto rounded-lg"
                 style="
@@ -199,7 +199,7 @@
           <v-row class="d-flex align-center">
             <v-col
               ><v-img
-                src="../../src/assets/lorax.jpg"
+                src="../../src/assets/posterLatin.png"
                 class="mx-lg-auto rounded-lg"
                 style="
                   border-style: ridge;
@@ -211,7 +211,7 @@
             /></v-col>
             <v-col>
               <v-img
-                src="../../src/assets/dragon.jpg"
+                src="../../src/assets/posterLluvia.png"
                 class="mx-lg-auto rounded-lg"
                 style="
                   border-style: ridge;
@@ -224,7 +224,7 @@
             </v-col>
             <v-col>
               <v-img
-                src="../../src/assets/posterGrud.png"
+                src="../../src/assets/posterNovia.png"
                 width="180"
                 class="mx-lg-auto rounded-lg"
                 style="
@@ -237,7 +237,7 @@
             </v-col>
             <v-col>
               <v-img
-                src="../../src/assets/posterCastillo.jpeg"
+                src="../../src/assets/posterOrfanato.png"
                 width="180"
                 class="mx-lg-auto rounded-lg"
                 style="
@@ -252,7 +252,7 @@
           <v-row class="d-flex align-center">
             <v-col
               ><v-img
-                src="../../src/assets/lorax.jpg"
+                src="../../src/assets/posterVenganza.png"
                 class="mx-lg-auto rounded-lg"
                 style="
                   border-style: ridge;
@@ -264,7 +264,7 @@
             /></v-col>
             <v-col>
               <v-img
-                src="../../src/assets/dragon.jpg"
+                src="../../src/assets/posterTormenta.png"
                 class="mx-lg-auto rounded-lg"
                 style="
                   border-style: ridge;
@@ -277,7 +277,7 @@
             </v-col>
             <v-col>
               <v-img
-                src="../../src/assets/posterGrud.png"
+                src="../../src/assets/posterTerminator.png"
                 width="180"
                 class="mx-lg-auto rounded-lg"
                 style="
@@ -290,7 +290,7 @@
             </v-col>
             <v-col>
               <v-img
-                src="../../src/assets/posterCastillo.jpeg"
+                src="../../src/assets/posterMascara.png"
                 width="180"
                 class="mx-lg-auto rounded-lg"
                 style="
@@ -336,7 +336,7 @@
                 hide-selected
                 item-text="name"
                 item-value="symbol"
-                label="Ubicación"
+                label="Cine"
                 class="my-lg-3"
                 solo
               >
